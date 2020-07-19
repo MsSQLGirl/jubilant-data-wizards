@@ -5,11 +5,5 @@ In this example, we will use Boston dataset and ONNX model.
 Microsoft docs: http://aka.ms/AzureDataStudioML
 
 Video:
-1. [Make Predictions using Machine Learning Extension (Preview) in Azure Data Studio](./MLExtension-MakePredictions.mp4))
-<!-- blank line -->
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true">
-    <source src="./MLExtension-MakePredictions.mp4" type="video/mp4">    
-  </video>
-</figure>
-<!-- blank line -->
+1. [Make Predictions using Machine Learning Extension (Preview) in Azure Data Studio](./MLExtension-MakePredictions.mp4))\
+[![Watch the video on YouTube](./images/MLExtensionMakePredictionsYouTubePreview.png)](https://youtu.be/DUgm-MlPqGc)
