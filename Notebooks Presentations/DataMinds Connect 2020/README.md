@@ -7,5 +7,5 @@ Presenters: [Julie Koesmarno](http://twitter.com/MsSQLGirl), [Drew Skwiers-Kobal
 
 Useful links:
 1. [Slide Deck](.\NotebooksForTriageAndIncidentResponse.pptx)
-2. [Simple Demo Convert To Notebook](..\..\Useful%20Notebooks\ConvertTigerToolboxSQLToNotebook.ipynb)
-3. [Sample: Convert TigerToolbox to Notebooks](..\..\Useful%20Notebooks\ConvertTigerToolboxSQLToNotebook.ipynb)
+2. [Simple Demo Convert To Notebook]https://github.com/MsSQLGirl/jubilant-data-wizards/blob/main/Useful%20Notebooks/DemoConvertToNotebooks.ipynb)
+3. [Sample: Convert TigerToolbox to Notebooks](https://github.com/MsSQLGirl/jubilant-data-wizards/blob/main/Useful%20Notebooks/ConvertTigerToolboxSQLToNotebook.ipynb)
