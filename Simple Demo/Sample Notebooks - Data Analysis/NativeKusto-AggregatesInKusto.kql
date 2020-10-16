@@ -1,0 +1,16 @@
+// Simple examples ideal for Charting and SandDance 
+
+// Simple example to get 10 states by count
+StormEvents 
+ | summarize Count = count() by State 
+ | sort by Count 
+ | limit 10
+
+// Simple example to do smart time binning
+ StormEvents
+| summarize EventCount =count() by bin(StartTime, 7d), State
+
+// Simple example to do smart time binning for three states only
+ StormEvents
+| where State in ("TEXAS", "WASHINGTON", "CALIFORNIA")
+| summarize EventCount =count() by bin(StartTime, 14d), State
