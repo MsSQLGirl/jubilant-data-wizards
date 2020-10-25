@@ -1,4 +1,10 @@
-# Welcome to Notebooks 101 for SQL People for SQL Saturday #1000 Oregon
+# Welcome to Notebooks 101 for SQL People
+## SQL Saturday #1000 Oregon (virtual)
+https://www.sqlsaturday.com/1000/
+
+Presenter: Julie Koesmarno [@MsSQLGirl](http://twiter.com/MsSQLGirl) \
+Oct 24, 2020
+
 
 ![](./media/Notebooks101ForSQLPeopleSQLSat1000-thumb.png)
 ## Abstract
