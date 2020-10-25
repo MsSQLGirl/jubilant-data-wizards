@@ -1,5 +1,6 @@
 # Welcome to Notebooks 101 for SQL People for SQL Saturday #1000 Oregon
 
+![](./media/Notebooks101ForSQLPeopleSQLSat1000-thumb.png)
 ## Abstract
 _Are you a database developer, a DBA or a data analyst? Do you find spending quite a bit of time trying to reproduce analysis or reproduce issues and the troubleshooting techniques? This Notebooks 101 session is for you!_
 
