@@ -26,3 +26,21 @@ _Azure Data Studio Notebooks support SQL and KQL natively with intellisense; wit
 ## Other useful resources:
 1. [How to use Jupyter Notebooks in Azure Data Studio | Azure Friday](https://www.youtube.com/watch?v=pHuRj9ty9cI)
 2. [PowerShellNotebook](https://github.com/dfinke/PowerShellNotebook)
+
+## FAQ
+1. Does SQL Notebooks work only for SQL Server? \
+It works for SQL Server, Azure SQL DB + Managed Instance and PostgreSQL. See [PostgreSQL extension in Azure Data Studio documentation](https://docs.microsoft.com/en-us/sql/azure-data-studio/extensions/postgres-extension?view=sql-server-ver15).
+
+2. Does the resultset support spatial data type? \
+Not currently. Please vote [Spatial support feature request](https://github.com/microsoft/azuredatastudio/issues/267)
+
+3. Is it possible to export result set of notebooks to Excel? \
+In Azure Data Studio, there are a few buttons on top of the result set that you can use to export result set to another file format.
+
+4. Using the SQL Notebook, is it possible to join to many other data sources (PostgreSQL and SQL Server)?
+No. Currently, this would require Python. (Unless you have [EXTERNAL DATA SOURCE](https://docs.microsoft.com/sql/t-sql/statements/create-external-data-source-transact-sql) defined in SQL Server).
+
+5. What's the best way to share notebooks?
+    - A great way to start is using Source Control, like git system which is supported in Azure Data Studio natively.
+    - Another way is to ship this as Jupyter Remote Book in GitHub.
+    - Create an extension to package your Jupyter Book like [SQL Server Diagnostic Book as an Extension](https://github.com/EmanueleMeazzo/tsql.tech-Code-snippets/releases/tag/v1.0).
