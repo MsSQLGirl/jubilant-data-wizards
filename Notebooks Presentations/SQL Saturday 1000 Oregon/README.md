@@ -26,6 +26,7 @@ _Azure Data Studio Notebooks support SQL and KQL natively with intellisense; wit
 ## Other useful resources:
 1. [How to use Jupyter Notebooks in Azure Data Studio | Azure Friday](https://www.youtube.com/watch?v=pHuRj9ty9cI)
 2. [PowerShellNotebook](https://github.com/dfinke/PowerShellNotebook)
+3. [WideWorldImporters sample database to restore to your SQL Server / Azure SQL DB](https://github.com/Microsoft/sql-server-samples/releases/tag/wide-world-importers-v1.0)
 
 ## FAQ
 1. Does SQL Notebooks work only for SQL Server? \
