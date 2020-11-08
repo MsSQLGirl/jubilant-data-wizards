@@ -1,0 +1,4 @@
+tenantId:<your Azure Tenant ID>  
+clientId:<your Log Reader App ID that has Log Analytics Reader access to your Log Analytics workspace>  
+clientSecret:<the Client Secret value of your Log Reader App ID>  
+workspaceId:<the Workspace ID of your Log Analytics worspace>  
