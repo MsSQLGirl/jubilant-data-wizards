@@ -1,0 +1,24 @@
+{
+    "notebook.pinnedNotebooks": [
+        {
+            "notebookPath": "c:/Temp/jubilant-data-wizards/Simple Demo/Sample Notebooks - Data Analysis/ADSNotebooksDemo.ipynb",
+            "bookPath": "c:/Temp/jubilant-data-wizards/Simple Demo/Sample Notebooks - Data Analysis"
+        },
+        {
+            "notebookPath": "c:/Temp/jubilant-data-wizards/Notebook Templates/TutorialTemplate.ipynb",
+            "bookPath": "c:/Temp/jubilant-data-wizards/Notebook Templates"
+        },
+        {
+            "notebookPath": "c:/Temp/jubilant-data-wizards/Simple Demo/Sample Notebooks - Data Analysis/NativeKusto-SimpleKustoNotebook.ipynb",
+            "bookPath": "c:/Temp/jubilant-data-wizards/Simple Demo/Sample Notebooks - Data Analysis"
+        },
+        {
+            "notebookPath": "c:/Temp/jubilant-data-wizards/Simple Demo/Sample Notebooks - Data Analysis/ReproducibleResearch.ipynb",
+            "bookPath": "c:/Temp/jubilant-data-wizards/Simple Demo/Sample Notebooks - Data Analysis"
+        },
+        {
+            "notebookPath": "c:/Temp/jubilant-data-wizards/Simple Demo/Sample Notebooks - Data Analysis/WWIReproducibleResearch Vol 1.ipynb",
+            "bookPath": "c:/Temp/jubilant-data-wizards/Simple Demo/Sample Notebooks - Data Analysis"
+        }
+    ]
+}
