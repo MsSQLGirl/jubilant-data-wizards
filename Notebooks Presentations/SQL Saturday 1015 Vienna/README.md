@@ -17,7 +17,7 @@ _Azure Data Studio Notebooks support SQL and KQL natively with intellisense; wit
 ## Resources used at SQL Saturday #1015 Vienna:
 1. [Slide Deck](https://github.com/MsSQLGirl/jubilant-data-wizards/blob/main/Notebooks%20Presentations/SQL%20Saturday%201015%20Vienna/20210115%20-%20Notebooks%20101%20for%20SQL%20People.pptx)
 2. Download the latest Azure Data Studio at http://aka.ms/getAzureDataStudio  
-  > Azure Data Studio is cross platform (Windows, macOS and Linux) client tool for modern data experiences. In this presentation, I specifically used Azure Data Studio for all the demos with occassional GitHub Jupyter Notebook viewer. 
+  > [Azure Data Studio](http://aka.ms/AzureDataStudio) is a cross platform (Windows, macOS and Linux) client tool for modern data experiences. In this presentation, I specifically used Azure Data Studio for all the demos with occassional GitHub Jupyter Notebook viewer. 
 3. Notebook Demo:
     - [Data Analysis with SQL Notebooks](https://github.com/MsSQLGirl/jubilant-data-wizards/blob/main/Simple%20Demo/Sample%20Notebooks%20-%20Data%20Analysis/WWIReproducibleResearch%20Vol%201.ipynb)
     - [Data Analysis with Python Notebooks](https://github.com/MsSQLGirl/jubilant-data-wizards/blob/main/Simple%20Demo/Sample%20Notebooks%20-%20Data%20Analysis/ReproducibleResearch.ipynb)
