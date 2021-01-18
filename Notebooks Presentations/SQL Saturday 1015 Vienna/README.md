@@ -6,7 +6,7 @@ Presenter: Julie Koesmarno [@MsSQLGirl](http://twiter.com/MsSQLGirl) \
 Jan 15, 2021
 
 
-![](./media/Notebooks101ForSQLPeopleSQLSat1000-thumb.png)
+![](./media/Notebooks101ForSQLPeopleSQLSat1015-thumb.png)
 ## Abstract
 _Are you a database developer, a DBA or a data analyst? Do you find spending quite a bit of time trying to reproduce analysis or reproduce issues and the troubleshooting techniques? This Notebooks 101 session is for you!_
 
