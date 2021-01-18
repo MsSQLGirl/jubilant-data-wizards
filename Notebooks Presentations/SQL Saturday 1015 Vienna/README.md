@@ -16,17 +16,20 @@ _Azure Data Studio Notebooks support SQL and KQL natively with intellisense; wit
 
 ## Resources used at SQL Saturday #1015 Vienna:
 1. [Slide Deck](https://github.com/MsSQLGirl/jubilant-data-wizards/blob/main/Notebooks%20Presentations/SQL%20Saturday%201015%20Vienna/20210115%20-%20Notebooks%20101%20for%20SQL%20People.pptx)
-2. [Notebook Templates](https://github.com/MsSQLGirl/jubilant-data-wizards/tree/main/Notebook%20Templates)
-3. Notebook Demo:
+4. Notebook Demo:
     - [Data Analysis with SQL Notebooks](https://github.com/MsSQLGirl/jubilant-data-wizards/blob/main/Simple%20Demo/Sample%20Notebooks%20-%20Data%20Analysis/WWIReproducibleResearch%20Vol%201.ipynb)
     - [Data Analysis with Python Notebooks](https://github.com/MsSQLGirl/jubilant-data-wizards/blob/main/Simple%20Demo/Sample%20Notebooks%20-%20Data%20Analysis/ReproducibleResearch.ipynb)
     - [Convert SQL scripts / PowerShell scripts to Notebooks](https://github.com/MsSQLGirl/jubilant-data-wizards/blob/main/Useful%20Notebooks/DemoConvertToNotebooks.ipynb)
 4. Remote Jupyter Book sample that you can use to download to Azure Data Studio directly: https://github.com/MsSQLGirl/jubilant-data-wizards/releases/tag/v0.0.0
+5. Tiger Toolbox Jupyter Notebooks: https://github.com/microsoft/tigertoolbox/releases
 
 ## Other useful resources:
 1. [How to use Jupyter Notebooks in Azure Data Studio | Azure Friday](https://www.youtube.com/watch?v=pHuRj9ty9cI)
-2. [PowerShellNotebook](https://github.com/dfinke/PowerShellNotebook)
+2. [PowerShellNotebook](https://github.com/dfinke/PowerShellNotebook) module created by Doug Finke 
 3. [WideWorldImporters sample database to restore to your SQL Server / Azure SQL DB](https://github.com/Microsoft/sql-server-samples/releases/tag/wide-world-importers-v1.0)
+4. [.net interactive notebooks in Azure Data Studio](https://channel9.msdn.com/Shows/Data-Exposed/Jupyter-Launch-NET-Interactive-Notebooks--Data-Exposed-MVP-Edition) with Rob Sewell and Anna Hoffman at Data Exposed. 
+5. [Notebook Templates for Troubleshooting Guide, Data Analysis and HowTo tutorials](https://github.com/MsSQLGirl/jubilant-data-wizards/tree/main/Notebook%20Templates)
+6. [Request new features or report an issue on Azure Data Studio GitHub](https://github.com/microsoft/azuredatastudio/issues)
 
 ## FAQ
 1. Does SQL Notebooks work only for SQL Server?  
@@ -35,8 +38,8 @@ It works for SQL Server, Azure SQL DB + Managed Instance and PostgreSQL. See [Po
 2. Does the resultset support spatial data type?  
 Not currently. Please vote [Spatial support feature request](https://github.com/microsoft/azuredatastudio/issues/267)
 
-3. Is it possible to export result set of notebooks to Excel?  
-In Azure Data Studio, there are a few buttons on top of the result set that you can use to export result set to another file format.
+3. Is it possible to export result set of notebooks to Excel or PDF
+In Azure Data Studio, there are a few buttons on top of the result set that you can use to export result set to another file format. There is no native support for exporting to PDF in Azure Data Studio today - however, check out [How to convert Jupyter notebooks into PDF](https://towardsdatascience.com/how-to-convert-jupyter-notebooks-into-pdf-5accaef3758).
 
 4. Using the SQL Notebook, is it possible to join to many other data sources (PostgreSQL and SQL Server)?  
 No. Currently, this would require Python. (Unless you have [EXTERNAL DATA SOURCE](https://docs.microsoft.com/sql/t-sql/statements/create-external-data-source-transact-sql) defined in SQL Server).
@@ -45,3 +48,8 @@ No. Currently, this would require Python. (Unless you have [EXTERNAL DATA SOURCE
     - A great way to start is using Source Control, like git system which is supported in Azure Data Studio natively.
     - Another way is to ship this as Jupyter Remote Book in GitHub.
     - Create an extension to package your Jupyter Book like [SQL Server Diagnostic Book as an Extension](https://github.com/EmanueleMeazzo/tsql.tech-Code-snippets/releases/tag/v1.0).
+    
+6. How do I keep up with Azure Data Studio update?  
+Check out [Azure Data Studio release blog post](https://cloudblogs.microsoft.com/sqlserver/?product=azure-data-studio) or [Release Notes](https://docs.microsoft.com/sql/azure-data-studio/release-notes-azure-data-studio).  Also follow [@AzureDataStudio](http://twitter.com/AzureDataStudio] on twitter.  
+
+A shout out to my PM colleagues, [Alan Yu](https://twitter.com/AlanYuSQL) and [Drew Skwiers-Koballa](https://twitter.com/SysAdminDrew), who are also active on Twitter on tips & tricks including new releases of Azure Data Studio. 
