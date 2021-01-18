@@ -16,7 +16,9 @@ _Azure Data Studio Notebooks support SQL and KQL natively with intellisense; wit
 
 ## Resources used at SQL Saturday #1015 Vienna:
 1. [Slide Deck](https://github.com/MsSQLGirl/jubilant-data-wizards/blob/main/Notebooks%20Presentations/SQL%20Saturday%201015%20Vienna/20210115%20-%20Notebooks%20101%20for%20SQL%20People.pptx)
-4. Notebook Demo:
+2. Download the latest Azure Data Studio at http://aka.ms/getAzureDataStudio  
+  > Azure Data Studio is cross platform (Windows, macOS and Linux) client tool for modern data experiences. In this presentation, I specifically used Azure Data Studio for all the demos with occassional GitHub Jupyter Notebook viewer. 
+3. Notebook Demo:
     - [Data Analysis with SQL Notebooks](https://github.com/MsSQLGirl/jubilant-data-wizards/blob/main/Simple%20Demo/Sample%20Notebooks%20-%20Data%20Analysis/WWIReproducibleResearch%20Vol%201.ipynb)
     - [Data Analysis with Python Notebooks](https://github.com/MsSQLGirl/jubilant-data-wizards/blob/main/Simple%20Demo/Sample%20Notebooks%20-%20Data%20Analysis/ReproducibleResearch.ipynb)
     - [Convert SQL scripts / PowerShell scripts to Notebooks](https://github.com/MsSQLGirl/jubilant-data-wizards/blob/main/Useful%20Notebooks/DemoConvertToNotebooks.ipynb)
@@ -49,7 +51,7 @@ No. Currently, this would require Python. (Unless you have [EXTERNAL DATA SOURCE
     - Another way is to ship this as Jupyter Remote Book in GitHub.
     - Create an extension to package your Jupyter Book like [SQL Server Diagnostic Book as an Extension](https://github.com/EmanueleMeazzo/tsql.tech-Code-snippets/releases/tag/v1.0).
     
-6. How do I keep up with Azure Data Studio update?  
+6. How do I keep up with Azure Data Studio releases?  
 Check out [Azure Data Studio release blog post](https://cloudblogs.microsoft.com/sqlserver/?product=azure-data-studio) or [Release Notes](https://docs.microsoft.com/sql/azure-data-studio/release-notes-azure-data-studio).  Also follow [@AzureDataStudio](http://twitter.com/AzureDataStudio] on twitter.  
 
 A shout out to my PM colleagues, [Alan Yu](https://twitter.com/AlanYuSQL) and [Drew Skwiers-Koballa](https://twitter.com/SysAdminDrew), who are also active on Twitter on tips & tricks including new releases of Azure Data Studio. 
