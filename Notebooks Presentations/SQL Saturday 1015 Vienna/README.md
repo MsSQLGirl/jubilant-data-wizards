@@ -25,6 +25,11 @@ _Azure Data Studio Notebooks support SQL and KQL natively with intellisense; wit
 4. Remote Jupyter Book sample that you can use to download to Azure Data Studio directly: https://github.com/MsSQLGirl/jubilant-data-wizards/releases/tag/v0.0.0
 5. Tiger Toolbox Jupyter Notebooks: https://github.com/microsoft/tigertoolbox/releases
 
+## Other Jupyter Notebooks built by the Data community
+1. Glenn Berry’s Diagnostic Notebooks for SQL Server and Azure SQL DB: https://glennsqlperformance.com/resources/ 
+2. Rob Sewell's Notebooks (PowerShell and .net interactive): http://sqldbawithabeard.com and https://github.com/SQLDBAWithABeard/JupyterNotebooks   
+3. Emanuele Meazzo's SQL Diagnostic Jupyter book: https://tsql.tech/the-sql-diagnostic-jupyter-book/     
+
 ## Other useful resources:
 1. [How to use Jupyter Notebooks in Azure Data Studio | Azure Friday](https://www.youtube.com/watch?v=pHuRj9ty9cI)
 2. [PowerShellNotebook](https://github.com/dfinke/PowerShellNotebook) module created by Doug Finke 
@@ -55,3 +60,6 @@ No. Currently, this would require Python. (Unless you have [EXTERNAL DATA SOURCE
 Check out [Azure Data Studio release blog post](https://cloudblogs.microsoft.com/sqlserver/?product=azure-data-studio) or [Release Notes](https://docs.microsoft.com/sql/azure-data-studio/release-notes-azure-data-studio).  Also follow [@AzureDataStudio](http://twitter.com/AzureDataStudio] on twitter.  
 
 A shout out to my PM colleagues, [Alan Yu](https://twitter.com/AlanYuSQL) and [Drew Skwiers-Koballa](https://twitter.com/SysAdminDrew), who are also active on Twitter on tips & tricks including new releases of Azure Data Studio. 
+
+7. Where should I submit feature request or report issues? 
+http://aka.ms/askAzureDataStudio or follow us on twitter [@AzureDataStudio](http://aka.ms/AzureDataStudio). 
