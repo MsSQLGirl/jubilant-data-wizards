@@ -8,5 +8,6 @@ Useful resources:
 * Learn more about Azure Data Studio: http://aka.ms/AzureDataStudio
 * [SQL to KQL cheatsheet](https://docs.microsoft.com/azure/data-explorer/kusto/query/sqlcheatsheet)
 * [Azure SQL diagnostic configuration](https://docs.microsoft.com/azure/azure-sql/database/metrics-diagnostic-telemetry-logging-streaming-export-configure?tabs=azure-portal#metrics-and-logs-available)
+* [Azure SQL DB and Log Analytics Better Together (3 parts)](https://techcommunity.microsoft.com/t5/azure-database-support-blog/azure-sql-db-and-log-analytics-better-together-part-1/ba-p/794833)
 * [KQL query samples](https://docs.microsoft.com/azure/data-explorer/kusto/query/samples?&pivots=azuremonitor )
 * [Short video on KQL capability in Azure Data Studio at Data Exposed()](https://techcommunity.microsoft.com/t5/video-hub/using-kusto-query-language-kql-in-azure-data-studio-data-exposed/m-p/1897166)
