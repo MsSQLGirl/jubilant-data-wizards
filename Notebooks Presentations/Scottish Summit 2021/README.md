@@ -1,6 +1,8 @@
 # Welcome to Notebooks 101 for SQL People 
 ## Scottish Summit 2021 edition
 
+Recording: https://www.youtube.com/watch?v=80L-UTOlknw 
+
 Useful References:
 1. http://aka.ms/getAzureDataStudio to download Azure data Studio
 2. [Notebook Templates](https://github.com/MsSQLGirl/jubilant-data-wizards/tree/main/Notebook%20Templates)
