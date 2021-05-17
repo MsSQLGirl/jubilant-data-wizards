@@ -1,5 +1,8 @@
 # Welcome to "From Oops to Ops: Incident Management with Notebooks"
 
+Register / schedule: https://techorama.be/agenda?day=tuesday
+Tuesday May 18, 2021 at 16:00 CET
+
 ## Abstract
 What if you can apply software engineering practices to your troubleshooting guides (TSGs) / playbook / runbook for your team’s on-call? 
 What if you can reduce stress and mistakes in your incident response workflow? 
