@@ -55,3 +55,15 @@ Notebooks with your favorite languages, from SQL to KQL, from PowerShell to Pyth
     - Use Azure Automation account and jobs that gets called by Power Automate or Azure Logic Apps, to run a PowerShell script that invokes a notebook (either SQL or PowerShell kernel based).  
     - Use a Jupyter Notebook with SQL / PowerShell kernel that does a number of diagnostic queries (and mitigation if applicable).     
 5. Takeaways and other resources  
+
+
+## Examples of SQL related notebooks
+1. Tiger Toolbox : 
+    - SQL Assessment Toolkit: https://github.com/microsoft/sql-server-samples/tree/master/samples/manage/sql-assessment-api/notebooks 
+    - SQL Hybrid Toolkit: https://github.com/microsoft/tigertoolbox/tree/master/SQL-Hybrid-Cloud-Toolkit/content 
+2. Glenn Berry’s Diagnostic Notebooks for SQL Server and Azure SQL: https://glennsqlperformance.com/resources/ 
+4. Rob Sewell’s Notebook: http://sqldbawithabeard.com https://github.com/SQLDBAWithABeard/JupyterNotebooks   
+4. The SQL Diagnostic (Jupyter) Book by Emanuele Meazzo https://tsql.tech/the-sql-diagnostic-jupyter-book/ 
+
+## Other useful resources
+Submit your issues on Azure Data Studio: https://github.com/microsoft/azuredatastudio/issues 
