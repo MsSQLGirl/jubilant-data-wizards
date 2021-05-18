@@ -1,7 +1,11 @@
 # Welcome to **From Oops to Ops: Incident Management with Notebooks**
 
-Register / schedule: https://techorama.be/agenda?day=tuesday  
-Tuesday May 18, 2021 at 16:00 CET
+Register / schedule: https://techorama.be/agenda?day=tuesday.  
+Tuesday May 18, 2021 at 16:00 CET.  
+
+Speakers:  
+- Julie Koesmarno - http://mssqlgirl.com | http://linkedin.com/in/juliekoesmarno | [@MsSQLGirl](http://twitter.com/mssqlgirl)     
+- Shafiq Rahman - https://www.linkedin.com/in/shafiq-rahman-16853a5/  
 
 ## Abstract
 What if you can apply software engineering practices to your troubleshooting guides (TSGs) / playbook / runbook for your team’s on-call? 
@@ -13,9 +17,7 @@ and feel empowered during incident response. We will share some of our learnings
 We’ll show how TSG Ops in Azure Data Studio makes incident response for SQL Server (on-prem) and Azure SQL much easier. We’ll show case how you can use 
 Notebooks with your favorite languages, from SQL to KQL, from PowerShell to Python, and all the way to .net interactive, providing you most flexibility.
 
-## Useful references
-
-### Useful pre-reads:
+## Useful pre-reads:
 1. Azure Data Studio.  
     - Download from http://aka.ms/getAzureDataStudio.  
 2. Basic knowledge on Notebooks:  
@@ -27,7 +29,7 @@ Notebooks with your favorite languages, from SQL to KQL, from PowerShell to Pyth
 4. SqlServer module.
     - [Invoke-SqlNotebook](https://docs.microsoft.com/powershell/module/sqlserver/invoke-sqlnotebook)
 
-### Topics covered:
+## Topics covered:
 1. Intro to TSG and Notebooks.  
    Our studies in Incident Response scenarios show that DBAs / Data Professionals still use static documents (Word, OneNote, Wiki) as Knowledge Base or troubleshooting guides. While traditionally this is OK, as data estate and ecosystems become more complex, we think that treating troubleshooting guides as code will help with maintainability and scalability. Azure Data Studio is continuously pushing for improvements in Notebooks that are ideal for supportability stories. 
 2. Executable TSGs with Notebooks.  
@@ -53,4 +55,3 @@ Notebooks with your favorite languages, from SQL to KQL, from PowerShell to Pyth
     - Use Azure Automation account and jobs that gets called by Power Automate or Azure Logic Apps, to run a PowerShell script that invokes a notebook (either SQL or PowerShell kernel based).  
     - Use a Jupyter Notebook with SQL / PowerShell kernel that does a number of diagnostic queries (and mitigation if applicable).     
 5. Takeaways and other resources  
-   
