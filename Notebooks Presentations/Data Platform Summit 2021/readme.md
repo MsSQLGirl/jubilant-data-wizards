@@ -2,7 +2,8 @@
 
 ## Useful References
 
-1. 
+1. Azure Monitor Logs in Azure Data Studio (link coming soon)
+2. 
 
 
 ### Launch and execute SQL Docs articles as notebooks in Azure Data Studio 
