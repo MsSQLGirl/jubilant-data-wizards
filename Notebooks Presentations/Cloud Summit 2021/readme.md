@@ -7,7 +7,7 @@ Presenters:
 Live session schedule on **Sep 16, 2021 at 9:10am Pacific Time** on https://azuresummit.live/
 
 ## Slide Deck
-Slide deck is available [here](.\FromOopsToOpsIncidentResponseWithJupyterNotebook.pdf)
+Slide deck is available [here](./FromOopsToOpsIncidentResponseWithJupyterNotebooks.pdf))
 
 ## Session Notes
 This session assumes that you have some basic knowledge of Jupyter Notebooks and paramterization in Jupyter Notebooks.
