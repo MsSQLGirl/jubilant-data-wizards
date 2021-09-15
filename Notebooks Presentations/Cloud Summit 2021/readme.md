@@ -1,10 +1,10 @@
 # Welcome to From Oops to Ops: Incident Response with Jupyter Notebooks
 
 Presenters:  
-- Julie Koesmarno ([LinkedIn](https://www.linkedin.com/in/juliekoesmarno/) | twitter: [@MsSQLGirl](http://twitter.com/mssqlgirl) | http://MsSQLGirl.com | [GitHub]())
-- Shafiq Rahman ([LinkedIn]())
+- Julie Koesmarno ([LinkedIn](https://www.linkedin.com/in/juliekoesmarno/) | twitter: [@MsSQLGirl](http://twitter.com/mssqlgirl) | http://MsSQLGirl.com | [GitHub](https://github.com/mssqlgirl))
+- Shafiq Rahman ([LinkedIn](https://www.linkedin.com/in/shafiq-rahman-16853a5/) | [GitHub](https://github.com/qifahs))
 
-Live session schedule on Sep 16, 2021 at 9:10am Pacific Time on https://azuresummit.live/
+Live session schedule on **Sep 16, 2021 at 9:10am Pacific Time** on https://azuresummit.live/
 
 ## Slide Deck
 Slide deck is available [here](.\FromOopsToOpsIncidentResponseWithJupyterNotebook.pdf)
