@@ -18,4 +18,4 @@ Here are some videos to get you up to speed:
 
 
 ## Session Recording
-Coming soon ... 
+[Day 4 at Cloud Summit](https://youtu.be/eVVyWNSxtco?t=10074)
