@@ -1,6 +1,6 @@
 # Welcome to **From Oops to Ops: Incident Management with Notebooks**
 
-Register / schedule: https://www.alldaydevops.com/2021-schedule
+Register / schedule: https://www.alldaydevops.com/2021-schedule  
 Tuesday October 28, 2021
 
 Recording: **coming soon!**
