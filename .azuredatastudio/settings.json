@@ -5,20 +5,34 @@
             "bookPath": "c:/Temp/jubilant-data-wizards/Simple Demo/Sample Notebooks - Data Analysis"
         },
         {
-            "notebookPath": "c:/Temp/jubilant-data-wizards/Notebook Templates/TutorialTemplate.ipynb",
-            "bookPath": "c:/Temp/jubilant-data-wizards/Notebook Templates"
+            "notebookPath": "c:/Temp/jubilant-data-wizards/Notebook Templates/TroubleshootingGuideTemplateWithAnchors.ipynb",
+            "bookPath": "c:/Temp/jubilant-data-wizards/Notebook Templates",
+            "title": "TroubleshootingGuideTemplateWithAnchors"
         },
         {
-            "notebookPath": "c:/Temp/jubilant-data-wizards/Simple Demo/Sample Notebooks - Data Analysis/NativeKusto-SimpleKustoNotebook.ipynb",
-            "bookPath": "c:/Temp/jubilant-data-wizards/Simple Demo/Sample Notebooks - Data Analysis"
+            "notebookPath": "c:/Temp/jubilant-data-wizards/Simple Demo/Parameterization/SQLDBLog/AzureSQLLogsAndMetricsWithLogAnalytics.ipynb",
+            "bookPath": "c:/Temp/jubilant-data-wizards/Simple Demo/Parameterization/SQLDBLog",
+            "title": "AzureSQLLogsAndMetricsWithLogAnalytics"
         },
         {
-            "notebookPath": "c:/Temp/jubilant-data-wizards/Simple Demo/Sample Notebooks - Data Analysis/ReproducibleResearch.ipynb",
-            "bookPath": "c:/Temp/jubilant-data-wizards/Simple Demo/Sample Notebooks - Data Analysis"
+            "notebookPath": "c:/Temp/jubilant-data-wizards/Useful Notebooks/DemoConvertToNotebooks.ipynb",
+            "bookPath": "c:/Temp/jubilant-data-wizards/Useful Notebooks",
+            "title": "DemoConvertToNotebooks"
         },
         {
-            "notebookPath": "c:/Temp/jubilant-data-wizards/Simple Demo/Sample Notebooks - Data Analysis/WWIReproducibleResearch Vol 1.ipynb",
-            "bookPath": "c:/Temp/jubilant-data-wizards/Simple Demo/Sample Notebooks - Data Analysis"
+            "notebookPath": "c:/Temp/jubilant-data-wizards/Simple Demo/Parameterization/SQLDBLog/AzureMonitorLogsSample.ipynb",
+            "bookPath": "c:/Temp/jubilant-data-wizards/Simple Demo/Parameterization/SQLDBLog",
+            "title": "AzureMonitorLogsSample"
+        },
+        {
+            "notebookPath": "c:/Temp/jubilant-data-wizards/Simple Demo/Parameterization/SQLDBLog/Demo-ExecuteAzureSQLLogAnalytics.ipynb",
+            "bookPath": "c:/Temp/jubilant-data-wizards/Simple Demo/Parameterization/SQLDBLog",
+            "title": "Demo-ExecuteAzureSQLLogAnalytics"
+        },
+        {
+            "notebookPath": "c:/Temp/jubilant-data-wizards/Simple Demo/Parameterization/SQLDBLog/AzureAutomationRunbookTutorial.ipynb",
+            "bookPath": "c:/Temp/jubilant-data-wizards/Simple Demo/Parameterization/SQLDBLog",
+            "title": "AzureAutomationRunbookTutorial"
         }
     ]
 }
